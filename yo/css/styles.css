@@ -1,0 +1,38 @@
+header{
+    height: 160px;
+    background-color: #df7e10;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    align-items: center;
+}
+header h1{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Arial', sans-serif;
+}
+div{
+ 
+    text-align: center;
+}
+div img{
+
+    margin-top: 20px;
+}
+footer{
+    height: 60px;
+    background-color: #000000;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    bottom: 0;
+    position: fixed;
+}
+p{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    font-family: 'Arial', sans-serif;
+}
